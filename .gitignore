@@ -1,0 +1,6 @@
+ticker_cache/
+data_cache/
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
